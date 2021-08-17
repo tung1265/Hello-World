@@ -1,3 +1,3 @@
 # Hello-World
 Just say Hello to The world
-this is not master
+this is my Hello-work repository
